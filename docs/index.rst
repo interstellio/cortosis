@@ -27,13 +27,10 @@ Built on top of some of the best open-source projects, Cortosis is optimised for
 Cortosis is inspired by our internal technology stack at Interstellio IO, which powers some of our NebularStack frontends and backends. After years of refinement and learning from real-world deployments, Cortosis is being developed as an open-source framework, bringing these optimisations and architectural patterns to the broader developer community.
 
 
-Contact
--------
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
 
-For inquiries about **Cortosis**, please contact **Interstellio IO** at:
-
-- **GitHUB:** https://github.com/orgs/interstellio
-- **Website:** https://www.interstellio.io
-- **Email:** opensource@interstellio.io
-
-You can also view the MAINTAINERS file for contacts.
+   install
+   contrib
+   contact
